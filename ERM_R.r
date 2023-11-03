@@ -3,8 +3,10 @@
 
 # This script models the Encounter Risk of Marine Mammals, adapted from the Excel Model in 13.10.2023 Model - Orbital SLA Collision Risk,
 # found on SharePoint in the folder Collision Risk
-  
-  
+teststst <- 3636
+
+
+
 # load libraries
 
 require(svDialogs)
@@ -17,7 +19,6 @@ library(tidyverse)
 
 #set working directory (wd)
 wd <- "C:/Users/felix.trotter/OneDrive - The European Marine Energy Centre Ltd/Documents/Technical_Environment/CollisionRiskModelling/"
-
 
 
 
